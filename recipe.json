@@ -79,6 +79,14 @@
       "category": "dinner",
       "img": "./images/item-10.jpeg",
       "aboutItem": "I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed"
+    },
+    {
+      "id": 11,
+      "name": "Developers",
+      "price": 1000,
+      "category": "dinner",
+      "img": "./images/item-11.jpeg",
+      "aboutItem": "Im Just trying to change file in repository in git hub."
     }
   ]
 }
